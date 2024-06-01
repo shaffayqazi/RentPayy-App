@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "543945907406",
+    "project_id": "rentpayy-8a0c0",
+    "storage_bucket": "rentpayy-8a0c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543945907406:android:123ad881565c6b5b2e049f",
+        "android_client_info": {
+          "package_name": "com.example.rentpayy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543945907406-vsunbuiqfb7d8i74933f9krf7njhlueo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentpayy",
+            "certificate_hash": "dd8be21f5b6fbfd51fff014cb0875681608319c9"
+          }
+        },
+        {
+          "client_id": "543945907406-d6866v2m2i6kaajqidhrnoo3gfb0o08k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABDo_MqFtwiD1xP35LwZcyTrLPet_lIgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543945907406-d6866v2m2i6kaajqidhrnoo3gfb0o08k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543945907406-fgkgesd0op2bd694bh183rqma8rige6m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rentpayy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
